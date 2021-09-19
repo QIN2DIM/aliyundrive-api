@@ -4,6 +4,8 @@ title = "Hugo Whisper Theme"
 themesDir = "themes"
 theme = "hugo-whisper-theme"
 
+publishDir = "docs"
+
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses = true
