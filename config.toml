@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://qin2dim.github.io/aliyundrive-api"
 languageCode = "en-us"
 title = "Hugo Whisper Theme"
 themesDir = "themes"
@@ -34,6 +34,8 @@ summaryLength = 30
   homepage_intro = 'Whisper is a documentation theme built with Hugo. The design and functionality is intentionally minimal.'
   homepage_image = '/images/terminal.gif'
 
+  enable_dark_mode = true
+
   ## You can enable to add anchor links to header elements
   # enable_anchor_link = true
 
@@ -51,4 +53,7 @@ summaryLength = 30
   [params.logo]
       mobile = "/images/logo-mobile.svg"
       standard  = "/images/logo.svg"
-
+  [params.fonts]
+      base = "Source Sans Pro"
+      monospace = "Fira Mono"
+      heading = "Lato"
