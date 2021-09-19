@@ -1,4 +1,4 @@
-baseURL = "https://qin2dim.github.io/aliyundrive-api"
+baseURL = "qin2dim.github.io/aliyundrive-api"
 languageCode = "en-us"
 title = "Hugo Whisper Theme"
 themesDir = "themes"
